@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Pinterest",
+    "slug": "Pinterest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
